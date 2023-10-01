@@ -6,14 +6,6 @@
     position: fixed;
     top: 0px;
     margin-bottom: 10px;
-    wi@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Carter+One&family=Gabarito&family=Josefin+Sans&family=Lilita+One&display=swap');
-
-.nav {
-    display: flex;
-    z-index: 1000;
-    position: fixed;
-    top: 0px;
-    margin-bottom: 10px;
     width: 100%;
     background-color: #08415c;
 
@@ -126,95 +118,6 @@ background-color: #388697;
                 background-color: #388697; 
                 color: whitesmoke;
                 }
-    
-
-
-
-
-#body {
-    background-color: #ffffff;
-    font-family: 'Gabarito', cursive; }
-    margin: 0px 1px;
-}
-.nav-link :visited {
-color: #FDFFFC;
-text-decoration: none;
-}
-a:hover {
-color: #48acff; 
-}
-.nav-link :active {
-    color: antiquewhite; }
-
-#home {
-    font-size: 19px;
-}
-
-#proposte{
-    font-size: 19px;
-}
-
-#Dispensa {
-    font-size: 19px;
-}
-
-
-
-
-
-.centered {
-text-align: center;
-border-top: 5px solid #f11c00;
-border-right: 4px solid #01c500;
-border-bottom: 5px solid #f11c00;
-border-left: 4px solid #01c500;
-background: #ffffff;
-width: 55%;
-
-display: block;
-margin-left: auto;
-margin-right: auto;
-
-padding: 5px;
-}
-
-.centered2 {
-    text-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    }
-    
-
-#titolo {
-display: block;
-margin-left: auto;
-margin-right: auto;
-padding: 10px 0px;
-
-background-color: #388697;
-
-}
-
-
-    #titolo0 {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        padding: 10px 0px;
-        margin: 20px 0px;
-
-        }
-
-        #titolo1 {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            padding: 10px 0px;
-
-            background-color: #cc2936; 
-            color: white;
-            }
     
 
 
