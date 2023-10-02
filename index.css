@@ -7,7 +7,7 @@
     top: 0px;
     margin-bottom: 10px;
     width: 100%;
-    background-color: #08415c;
+    background-color: black;
 
     padding-top: 20px;
     padding-bottom: 20px;
@@ -94,7 +94,7 @@ padding: 5px;
             
     
 
-#titolo {
+.titolo {
 display: block;
 margin-left: auto;
 margin-right: auto;
@@ -105,7 +105,7 @@ background-color: #388697;
 }
 
 
-    #titolo0 {
+    .titolo0 {
         display: block;
         margin-left: auto;
         margin-right: auto;
@@ -114,11 +114,11 @@ background-color: #388697;
 
         }
 
-        #titolo1 {
+        .titolo1 {
             display: block;
             margin-left: auto;
             margin-right: auto;
-            padding: 10px 0px;
+            padding: 10px 0px 35px 0px;
 
             background-color: #cc2936; 
             color: white;
@@ -140,12 +140,12 @@ background-color: #388697;
                     margin-right: auto;
                     padding: 10px 0px 35px 0px;
         
-                    background-color: #049c0c; 
+                    background-color: #007906; 
                     color: whitesmoke;
                     }
 
 
-                    #titolo4 {
+                    .titolo4 {
                         display: block;
                         margin-left: auto;
                         margin-right: auto;
